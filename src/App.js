@@ -60,7 +60,7 @@ class App extends React.Component {
                                     { user.first_name }
                                 </PanelHeaderContent>
 								:
-								'VK Apps Image Example'
+								'VK'
 						}
                     </PanelHeader>
 
